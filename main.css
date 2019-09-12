@@ -1,0 +1,22 @@
+input {
+    width: 30px;
+}
+
+
+td>input {
+    width:75px; 
+}
+div>input{
+    margin: 4px;
+}
+div>label{
+    width: 70%;
+}
+
+#container{width:300px}
+
+#modsat ul{
+    list-style: none;
+}
+
+
